@@ -1,4 +1,4 @@
-baseURL      = "https://www.example.com/"
+baseURL      = "https://www.seayoegi.com/"
 title        = "SEAYO Catch"
 disableKinds = ["section", "taxonomy", "term"]
 
